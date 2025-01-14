@@ -1,5 +1,5 @@
 def main():
-    print("Hello from pyfda!")
+    print("Hello from pyfda testinho!")
 
 
 if __name__ == "__main__":
